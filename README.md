@@ -2,6 +2,10 @@
 Attrition (departure of employees from organization) analytics dashboard on <b>PowerBI</b>. <br>
 For a better experience, view on the PowerBI website <a href="https://app.powerbi.com/groups/me/reports/88062cb4-041f-49a3-9d3a-5a10b3bb9384/ReportSection?experience=power-bi">here</a>.
 
+# Dashboard Overview
+<img src="dashboard.png"> <br>
+The dashboard displays the slicers based on department of the employees along with a tree map representing the gender ratio of the departed employees on the very top. Following these are the KPIs used for the creation of the subsequent visualizations. All of these visualizations are entirely dynamic when opened on PowerBI, displaying the KPIs and other visualizations based on the selected sub-category.
+
 ## Dataset
 The dataset included in this repo was downloaded from <a href='https://www.youtube.com/watch?v=j4xlVLgsmNQ'>this</a> video. <br>
 Following are some details about the dataset, with focus on the KPIs used:
